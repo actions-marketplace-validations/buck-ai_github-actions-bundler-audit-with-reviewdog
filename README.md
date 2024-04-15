@@ -11,7 +11,7 @@ Implementation of [bundler-audit](https://github.com/rubysec/bundler-audit) with
     * Default value is `github.GITHUB_TOKEN`
 
 - `level`
-    * Report level for reviewdog, options are info, warning, error.
+    * Report level for reviewdog, options are `info, warning, error`
     * Optional
     * Default value is `error`
 
